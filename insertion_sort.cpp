@@ -35,4 +35,5 @@ void inserttionSort()
 {// procedure insertionSort
 
     int temp ; // membuat variabel data temporer atau menyimpan sementara
+    int j, i;// membuat variabel j sebagai penanda
 
