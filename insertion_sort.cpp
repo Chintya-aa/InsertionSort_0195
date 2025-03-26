@@ -52,3 +52,9 @@ void inserttionSort()
     }
 }
 
+void display ()
+{ 
+    cout<< endl;// output baris kosong
+    cout<<"===================="<<
+    
+
