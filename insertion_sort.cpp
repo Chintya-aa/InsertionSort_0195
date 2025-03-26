@@ -27,7 +27,7 @@ void input()
     endl;
 for (int i=0;i<n;i++)//menggunakan pengulangan for untuk menyimpan data pada array
     {
-        cout<<"data ke-"<<(i+1)<<":";//masukkan atau mengimputkan ninali data n kedalam array arr
+        cout<<"data ke-"<<(i+1)<<":";//masukkan atau mengimputkan nilai data n kedalam array arr
     }
 }
 
