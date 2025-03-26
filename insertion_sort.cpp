@@ -69,5 +69,9 @@ void display ()
         cout<<arr [j]<<endl;//output ke layar
     }
 
+    cout<<endl;?? output baris kosong
+}
+
+
 
 
