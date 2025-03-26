@@ -56,5 +56,8 @@ void display ()
 { 
     cout<< endl;// output baris kosong
     cout<<"===================="<<
-    
+    endl;//output ke layar
+    cout<<"element array yang telah tersusun"<< endl;// output ke layar
+}
+
 
