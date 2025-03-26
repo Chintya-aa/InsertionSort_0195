@@ -56,8 +56,12 @@ void display ()
 { 
     cout<< endl;// output baris kosong
     cout<<"===================="<<
+    cout<<"total pass="<<n-1<<
+    endl;// cout elemant movement
+    cout<<"===================="<<
     endl;//output ke layar
     cout<<"element array yang telah tersusun"<< endl;// output ke layar
 }
+
 
 
