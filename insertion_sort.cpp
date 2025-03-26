@@ -31,3 +31,8 @@ for (int i=0;i<n;i++)//menggunakan pengulangan for untuk menyimpan data pada arr
     }
 }
 
+void inserttionSort()
+{// procedure insertionSort
+
+    int temp ; // membuat variabel data temporer atau menyimpan sementara
+
